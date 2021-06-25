@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kritika Chandak</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kritikachandak&label=Profile%20views&color=0e75b6&style=flat" alt="kritikachandak" /> </p>
-
 - 🔭 I’m currently working on **React and JavaScript**
 
 - 🌱 I’m currently learning **Web Development and Data Science**
@@ -26,5 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikachandak&show_icons=true&locale=en&layout=compact" alt="kritikachandak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikachandak&show_icons=true&locale=en" alt="kritikachandak" /></p>
+
+
 
 
